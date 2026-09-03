@@ -1,55 +1,6 @@
 
-YouTube Video Data
-        │
-        ├── Schema Validation
-        ├── Date Processing
-        ├── Category Mapping
-        ├── Daily Trends
-        └── Engagement Metrics
-        │
-        ▼
-YouTube Comment Data
-        │
-        ├── Ingestion
-        ├── Cleaning
-        ├── Normalization
-        ├── Language Detection
-        ├── Deduplication
-        ├── Quality Gate
-        ├── Temporal Features
-        └── Context Features
-        │
-        ▼
-SILVER FEATURE STORE
-        │
-        ├── Sentiment
-        ├── Emotion
-        ├── Topic
-        ├── Intent
-        ├── Feature Request
-        ├── Pain Point
-        ├── Question
-        ├── Spam
-        ├── Toxicity
-        └── Hate
-        │
-        ▼
-BUSINESS FEATURES
-        │
-        ├── Engagement
-        ├── Quality
-        ├── Virality
-        ├── Trend
-        ├── Response Priority
-        ├── Audience Need
-        ├── Commercial Intent
-        └── Recommendation Intent
-        │
-        ▼
-GOLD FEATURE STORE
-        │
-        ▼
-MODEL / RECOMMENDATION READY
+
+<img width="936" height="1681" alt="Data preparation architecture" src="https://github.com/user-attachments/assets/16ccf29c-8b78-46ad-9a66-16ac0499eeb6" />
 
 # YouTube Comment Recommendation System — Data Preparation & Comment Detection
 
